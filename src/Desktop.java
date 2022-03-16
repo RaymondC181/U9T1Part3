@@ -11,10 +11,6 @@ public class Desktop
         this.monitorIncluded = monitorIncluded;
     }
 
-    public void installOperatingSystem()
-    {
-        System.out.println("installing OS...");
-    }
 
     public void replaceTowerCasing()
     {

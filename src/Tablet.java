@@ -11,9 +11,5 @@ public class Tablet
         this.stylusIncluded = stylusIncluded;
     }
 
-    public void installOperatingSystem()
-    {
-        System.out.println("installing OS...");
-    }
 }
 

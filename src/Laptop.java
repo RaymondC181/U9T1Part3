@@ -11,10 +11,6 @@ public class Laptop
         trackPadCalibrated = false; // default value
     }
 
-    public void installOperatingSystem()
-    {
-        System.out.println("installing OS...");
-    }
 
     public void calibrateTrackpad()
     {
